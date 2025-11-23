@@ -1,7 +1,7 @@
 {
 	"name": "vicky-project/api-module",
 	"type": "laravel-module",
-	"description": "",
+	"description": "Contains module api server with many built-in apps. Build on top nwidart/laravel-modules",
 	"authors": [
 		{
 			"name": "Vicky Rahman",
